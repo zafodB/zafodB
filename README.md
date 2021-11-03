@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Filip 👋
+
+I'm currently learning about security at [tryhackme](https://tryhackme.com/), slowly making my way through this [long list of free rooms](https://gist.github.com/zafodB/e2329f1e19ead4994c7ea9a9e81dbfd5).
+
+Also looking forward to this years [Advent of Code](https://adventofcode.com/)! 🎄
+
+
+<sub>Reach me on [LinkedIn](https://www.linkedin.com/in/filipadamik/)</sub>
 
 <!--
 **zafodB/zafodB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
