@@ -1,8 +1,10 @@
 ### Hi there, I'm Filip 👋
 
-I'm currently learning about security at [tryhackme](https://tryhackme.com/), slowly making my way through this [long list of free rooms](https://gist.github.com/zafodB/e2329f1e19ead4994c7ea9a9e81dbfd5).
+Besides fulltime work, I'm climbing to stay fit. I've [made](https://github.com/zafodB/boulderingDates) a tracker, so you can see where you can [catch me](https://goclimbing.ml) next time!
 
-Also looking forward to this year's [Advent of Code](https://adventofcode.com/)! 🎄
+Other side projects:
+* *(slow progress)* Solving [Advent of Code](https://adventofcode.com/)! 🎄
+* *(on hold)* Learning about security at [tryhackme](https://tryhackme.com/), slowly making my way through this [long list of free rooms](https://gist.github.com/zafodB/e2329f1e19ead4994c7ea9a9e81dbfd5).
 
 
 <sub>Reach me on [LinkedIn](https://www.linkedin.com/in/filipadamik/)</sub>
